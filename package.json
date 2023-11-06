@@ -19,20 +19,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zill4/cascade-validation.git"
+    "url": "https://github.com/Cubex-LLC/cascade-validation.git"
   },
   "dependencies": {
     "es6-shim": "^0.35.1",
     "reflect-metadata": "^0.1.8"
   },
   "peerDependencies": {
-    "cascade": "https://github.com/zill4/cascade#main"
+    "cascade": "https://github.com/Cubex-LLC/cascade#main"
   },
   "devDependencies": {
     "@types/chai": "^4.0.0",
     "@types/mocha": "^10.0.1",
     "chai": "^4.0.2",
-    "cascade": "https://github.com/zill4/cascade#main",
+    "cascade": "https://github.com/Cubex-LLC/cascade#main",
     "es6-shim": "^0.35.3",
     "jsdom": "^22.1.0",
     "mocha": "^10.2.0",
